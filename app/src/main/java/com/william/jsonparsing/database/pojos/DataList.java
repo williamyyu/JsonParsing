@@ -1,4 +1,4 @@
-package com.william.jsonparsing.pojos;
+package com.william.jsonparsing.database.pojos;
 
 import com.google.gson.annotations.SerializedName;
 
